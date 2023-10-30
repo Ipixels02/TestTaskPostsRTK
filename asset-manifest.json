@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestTaskPostsRTK/static/css/main.a4619b03.css",
+    "main.js": "/TestTaskPostsRTK/static/js/main.044e06c8.js",
+    "index.html": "/TestTaskPostsRTK/index.html",
+    "main.a4619b03.css.map": "/TestTaskPostsRTK/static/css/main.a4619b03.css.map",
+    "main.044e06c8.js.map": "/TestTaskPostsRTK/static/js/main.044e06c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4619b03.css",
+    "static/js/main.044e06c8.js"
+  ]
+}
