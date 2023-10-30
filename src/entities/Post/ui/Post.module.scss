@@ -1,0 +1,21 @@
+.post {
+  padding: 20px;
+  border: 1px solid teal;
+  margin-top: 15px;
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+.text {
+  width: 1000px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

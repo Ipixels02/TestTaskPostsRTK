@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+.app {
+  min-height: 100vh;
+  padding: 20px 70px 20px 20px;
+}
+
+.content-page {
+  display: flex;
+}
+
+.page-wrapper {
+  flex-grow: 1;
+}
+
+.post__list {
+  width: 100%;
+  padding: 20px;
+}
