@@ -20,7 +20,7 @@ export const Post:FC<PostItemProps> = ({post}) => {
             <div className={cls.text}>
                 {post.body + ' '}
                     <div>
-                        <button onClick={() => navigate(`/posts/${post.id}`, { replace: true })}>Посмотреть</button>
+                        <button onClick={() => navigate(`/TestTaskPostsRTK/posts/${post.id}`, { replace: true })}>Посмотреть</button>
                     </div>
             </div>
         </div>
