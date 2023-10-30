@@ -22,4 +22,4 @@
 
 ## Ссылка на сайт
 
-[GreenApiTask](https://green-api-task.netlify.app/)
+[TestTaskPostsRTK](https://ipixels02.github.io/TestTaskPostsRTK/)
